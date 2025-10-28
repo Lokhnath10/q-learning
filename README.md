@@ -62,16 +62,14 @@ def q_learning(env,
 
 ```
 ## OUTPUT:
+<img width="748" height="309" alt="Screenshot 2025-10-28 160914" src="https://github.com/user-attachments/assets/1e80e73c-4339-45c1-8ef0-d682918c8d67" />
+<img width="929" height="736" alt="Screenshot 2025-10-28 160926" src="https://github.com/user-attachments/assets/0b9eca50-1d92-4fa0-8d05-56d90d06e664" />
+<img width="454" height="313" alt="Screenshot 2025-10-28 160938" src="https://github.com/user-attachments/assets/3d715898-2efe-45ed-9900-4e462b3b01ff" />
+<img width="849" height="729" alt="Screenshot 2025-10-28 160950" src="https://github.com/user-attachments/assets/6178c6ed-e568-40f9-bba0-b4bdc4a743e7" />
+<img width="1258" height="510" alt="Screenshot 2025-10-28 161034" src="https://github.com/user-attachments/assets/9a778ba9-d611-4436-9cbd-2f14591cd19f" />
+<img width="1260" height="503" alt="Screenshot 2025-10-28 161041" src="https://github.com/user-attachments/assets/ded3fb03-de9b-4440-aff6-b7ea91749e71" />
 
 
-<img width="997" height="174" alt="Screenshot 2025-10-25 112450" src="https://github.com/user-attachments/assets/6e0ad0a8-e84b-495e-b855-451ff8f90f4c" />
-
-
-<img width="1707" height="748" alt="Screenshot 2025-10-25 112505" src="https://github.com/user-attachments/assets/e50ef4a0-8035-4353-bf44-82acf51dc740" />
-
-<img width="803" height="350" alt="Screenshot 2025-10-25 112523" src="https://github.com/user-attachments/assets/b18e472b-bb9c-4c86-8102-23460019d521" />
-
-<img width="762" height="343" alt="Screenshot 2025-10-25 112531" src="https://github.com/user-attachments/assets/ca2e2626-f86a-42ef-8ff1-43dde1b270f8" />
 
 ## RESULT:
 
